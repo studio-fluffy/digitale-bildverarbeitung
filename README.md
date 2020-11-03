@@ -1,1 +1,1 @@
-# digitale-bildverarbeitung
+# Vorlesungsunterlagen digitale Bildverarbeitung an der DHBW
